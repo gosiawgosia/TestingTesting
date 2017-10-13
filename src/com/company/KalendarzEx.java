@@ -17,7 +17,7 @@ public class KalendarzEx {
         String calendar = getCalendar();
         System.out.println(calendar);
     }
-
+//cokolwiek innego
     private static String getCalendar() {
         return getCalendar(YearMonth.now());
     }
