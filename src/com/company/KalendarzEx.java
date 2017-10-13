@@ -12,7 +12,7 @@ import static java.time.format.TextStyle.FULL_STANDALONE;
 import static java.time.format.TextStyle.SHORT_STANDALONE;
 
 public class KalendarzEx {
-
+//testing testing testing
     public static void main(String[] args) {
         String calendar = getCalendar();
         System.out.println(calendar);
